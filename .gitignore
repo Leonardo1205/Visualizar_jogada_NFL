@@ -1,0 +1,6 @@
+# Dados brutos e Parquet (não versionar)
+tracking_week_*.csv
+tracking_week_*.parquet
+
+# Imagens geradas
+jogada_*.png
